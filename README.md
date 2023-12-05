@@ -1,3 +1,3 @@
 # XBox Serie X Landing Page
 
-<img src="/cap.png" alt="Capa>
+<img src="/public/capa.png" alt="Capa" />
